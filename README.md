@@ -31,7 +31,7 @@
 
 **Why it's not just another RAG demo:** Most RAG projects do vector search → stuff chunks → ask LLM. This one adds hybrid retrieval (catches keyword matches pure vector misses), a reranker (cross-encoder reads query+chunk together for true relevance), and RAGAS evals to prove the upgrade works. Total latency ~1.85s.
 
-🔗 [github.com/pranavjhaprof/github-assistant](https://github.com/pranavjhaprof/github-assistant)
+🔗 [Backend](https://github.com/pranavjhaprof/repoRAG_backend) · [Frontend](https://github.com/pranavjhaprof/repoRAG_frontend)
 
 ---
 
@@ -48,7 +48,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
@@ -63,8 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavjhaprof&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavjhaprof&theme=dark&hide_border=false&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavjhaprof&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%"/>
 </p>
 
 ---
@@ -75,12 +73,10 @@ RAG pipelines · Hybrid search · LLM application design · FastAPI · Productio
 
 ---
 
-*Actively looking for GenAI and Data Science internship/full-time roles — open to remote*
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pranavjhaprof&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Actively looking for GenAI and Data Science internship/full-time roles — open to remote*
